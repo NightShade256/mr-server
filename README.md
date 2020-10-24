@@ -28,9 +28,3 @@ This is just a project I made during my free time for learning purpose.
 ## License
 
 This project is licensed under the MIT License.
-
-## Support
-
-If you stumble across this repository somehow and want some help regarding this, please feel free to contact me
-on Discord.  
-Username: `__NightShade256__`
